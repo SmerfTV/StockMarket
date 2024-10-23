@@ -37,4 +37,4 @@ The simulation will print the final state of the portfolio for each investor aft
 
 ## Original Task Description
 
-[Original task description (in Polish)](tbd)
+[Original task description (in Polish)](https://github.com/SmerfTV/StockMarket/blob/main/task_desc.pdf)
