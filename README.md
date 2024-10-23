@@ -20,7 +20,7 @@ Inputs template (text in angle brackets describes subsequent data, while text in
 <investor's wallet: <funds> <stocks <name>: <count>>
 ```
 
-For example, inputs given in the original task look like [this](tbd).
+For example, inputs given in the original task look like [this](https://raw.githubusercontent.com/SmerfTV/StockMarket/refs/heads/main/input.txt).
 
 ## Types of Investors
 
